@@ -1,6 +1,6 @@
 <?php
 
-namespace Leap;
+namespace Leap\Container;
 
 
 use Pimple\Container as PimpleContainer;
